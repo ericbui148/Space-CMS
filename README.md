@@ -12,7 +12,7 @@ Space CMS fully supports multi-languages for internationalization and localizati
 
 
 ## Licensing
-Space CMS is released under GNU/GPL version 2 or any later version.
+Space CMS is released under GNU/GPL version 3 or any later version.
 
 See [LICENSE](LICENSE) for the full license.
 
