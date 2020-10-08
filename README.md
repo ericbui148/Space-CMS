@@ -37,4 +37,4 @@ Website: http://webspace.vn
 
 Head Office:
   - 231 Dien Bien Phu Street, Ward 06, District 03, Ho Chi Minh City, Vietnam
-  - Phone: (+84) 973 780 117, Email: contact (at) webspace.vn
+  - Phone: (+84) 973 780 117, Email: support (at) webspace.vn
