@@ -1,4 +1,4 @@
-# Space-CMS
+# Space CMS
 Space CMS is a Content Management System. Space CMS is the best open source content management system in Vietnam. We provide a simple, high-speed CMS to deploy and grow your business.
 The lastest version - Space CMS 1.0 coding ground up support lastest web technologies, include reponsive web design (use HTML 5, CSS 3, Composer), jQuery, Ajax...) enables you to build websites and online applications rapidly.
 
