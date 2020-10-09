@@ -1,0 +1,44 @@
+@CHARSET "UTF-8";
+.fd-overflow{overflow:hidden}
+.fd-align-left{text-align: left}
+.fd-align-center{text-align: center}
+.fd-align-right{text-align: right}
+.fd-bold{font-weight: bold}
+.fd-underline{text-decoration: underline}
+.fd-bottom{border-bottom: solid 1px #dfe0e0}
+.fd-relative{position: relative}
+.fd-float-left{float:left;}
+.fd-float-right{float:right}
+.fd-clear-left{clear:left}
+.fd-clear-right{clear:right}
+.fd-clear-both{clear:both}
+.fd-inline-block{display:inline-block}
+.fd-inline{display:inline}
+.fd-block{display:block}
+.fd-w5p{width: 5%}.fd-w10p{width: 10%}.fd-w15p{width: 15%}.fd-w20p{width: 20%}.fd-w25p{width: 25%}.fd-w30p{width: 30%}
+.fd-w35p{width: 30%}.fd-w35p{width: 30%}.fd-w32p{width: 32%}
+.fd-w40p{width: 40%}.fd-w41p{width: 41%}.fd-w42p{width: 42%}.fd-w43p{width: 43%}.fd-w44p{width: 44%}
+.fd-w45p{width: 45%}.fd-w46p{width: 46%}.fd-w47p{width: 47%}.fd-w48p{width: 48%}.fd-w49p{width: 49%}
+.fd-w50p{width: 50%}.fd-w51p{width: 51%}.fd-w52p{width: 52%}.fd-w53p{width: 53%}.fd-w54p{width: 54%}
+.fd-w55p{width: 55%}.fd-w59p{width: 59%}.fd-w60p{width: 60%}.fd-w61p{width: 61%}.fd-w62p{width: 62%}.fd-w64p{width: 64%}.fd-w65p{width: 65%}.fd-w66p{width: 66%}.fd-w70p{width: 70%}.fd-w75p{width: 75%}.fd-w80p{width: 80%}.fd-w82p{width: 82%}
+.fd-w50{width:50px}.fd-w60{width:60px}.fd-w70{width:70px}.fd-w80{width:80px}.fd-w90{width:90px}.fd-w100{width:100px}
+.fd-w110{width:110px}.fd-w120{width:120px}.fd-w130{width:130px}.fd-w140{width:140px}.fd-w150{width:150px}
+.fd-w160{width:160px}.fd-w170{width:170px}.fd-w180{width:180px}.fd-w190{width:190px}.fd-w200{width:200px}.fd-w208{width:208px}
+.fd-w250{width:250px}.fd-w300{width:300px}.fd-w400{width:400px}.fd-w500{width:500px}.fd-w550{width:550px}
+.fd-h100{height:100px}.fd-h150{height:150px}.fd-h180{height:180px}
+.fd-t0{margin-top:0px}.fd-t5{margin-top:5px}.fd-t8{margin-top:8px}.fd-t10{margin-top:10px}.fd-t15{margin-top:15px}.fd-t20{margin-top:20px}
+.fd-r5{margin-right:5px}.fd-r10{margin-right:10px}.fd-r15{margin-right:15px}.fd-r20{margin-right:20px}
+.fd-l5{margin-left:5px}.fd-l10{margin-left:10px}.fd-l15{margin-left:15px}.fd-l20{margin-left:20px}.fd-l120{margin-left:120px}
+.fd-b5{margin-bottom:5px}.fd-b10{margin-bottom:10px}.fd-b15{margin-bottom:15px}.fd-b20{margin-bottom:20px}
+.fd-pt5{padding-top:5px}.fd-pt10{padding-top:10px}.fd-pt15{padding-top:15px}.fd-pt20{padding-top:20px}
+.fd-pr5{padding-right:5px}.fd-pr10{padding-right:10px}.fd-pr15{padding-right:15px}.fd-pr20{padding-right:20px}
+.fd-pl5{padding-left:5px}.fd-pl10{padding-left:10px}.fd-pl15{padding-left:15px}.fd-pl20{padding-left:20px}
+.fd-pb5{padding-bottom:5px}.fd-pb10{padding-bottom:10px}.fd-pb15{padding-bottom:15px}.fd-pb20{padding-bottom:20px}
+.fd-lh14{line-height:14px}.fd-lh15{line-height:15px}.fd-lh16{line-height:16px}.fd-lh17{line-height:17px}.fd-lh18{line-height:18px}.fd-lh19{line-height:19px}
+.fd-lh20{line-height:20px}.fd-lh21{line-height:21px}.fd-lh22{line-height:22px}.fd-lh23{line-height:23px}.fd-lh24{line-height:24px}.fd-lh25{line-height:25px}
+.fd-lh26{line-height:26px}.fd-lh27{line-height:27px}.fd-lh28{line-height:28px}.fd-lh29{line-height:29px}.fd-lh30{line-height:30px}
+.fd-fs14{font-size:14px}.fd-fs15{font-size:15px}.fd-fs16{font-size:16px}.fd-fs17{font-size:17px}.fd-fs18{font-size:18px}.fd-fs19{font-size:19px}
+.fd-fs20{font-size:20px}.fd-fs21{font-size:21px}.fd-fs22{font-size:22px}.fd-fs23{font-size:23px}.fd-fs24{font-size:24px}.fd-fs25{font-size:25px}
+.fd-fs26{font-size:26px}.fd-fs27{font-size:27px}.fd-fs28{font-size:28px}.fd-fs29{font-size:29px}.fd-fs30{font-size:30px}
+.fd-color-black{color:#3b3e42}
+.fd-color-gray{color:#a7a9ab}

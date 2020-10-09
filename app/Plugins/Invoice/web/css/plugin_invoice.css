@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+.status-paid {
+    background: url("../img/active.png") no-repeat scroll 62px 3px #fff;
+}
+.status-not_paid {
+    background: url("../img/pending.png") no-repeat scroll 62px 3px #fff;
+}
+.status-cancelled{
+	width: 92px !important;
+    background: url("../img/disabled.png") no-repeat scroll 78px 3px #fff;
+}

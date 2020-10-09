@@ -1,0 +1,126 @@
+{
+	"default_lang": "vi",
+	"languages": ["gb", "vi"],
+	"css": {
+		"home_page": [
+			"css/css-bootstrap.css",
+			"css/css-fonts.css",
+			"css/css-style.css"
+		],
+		"user_register": [
+			"css/css-bootstrap.css",
+			"css/css-fonts.css",
+			"css/css-style.css"
+		],
+		"page": [
+			"css/css-bootstrap.css",
+			"css/css-fonts.css",
+			"css/css-style.css"
+		],
+		"pages": [
+			"css/css-bootstrap.css",
+			"css/css-fonts.css",
+			"css/css-style.css"
+		],
+		"articles": [
+			"css/css-bootstrap.css",
+			"css/css-fonts.css",
+			"css/css-style.css"
+		],
+		"404": [
+			"css/css-bootstrap.css",
+			"css/css-fonts.css",
+			"css/css-style.css"
+		],
+		"product": [
+			"css/css-bootstrap.css",
+			"css/css-fonts.css",
+			"css/css-style.css"
+		],
+		"products": [
+			"css/css-bootstrap.css",
+			"css/css-fonts.css",
+			"css/css-style.css"
+		],
+		"cart": [
+			"css/css-bootstrap.css",
+			"css/css-fonts.css",
+			"css/css-style.css"
+		],
+		"checkout": [
+			"css/css-bootstrap.css",
+			"css/css-fonts.css",
+			"css/css-style.css"
+		],
+		"order_preview": [
+			"css/css-bootstrap.css",
+			"css/css-fonts.css",
+			"css/css-style.css"
+		],
+		"contact": [
+			"css/css-bootstrap.css",
+			"css/css-fonts.css",
+			"css/css-style.css"
+		],
+		"order_confirm": [
+			"css/css-bootstrap.css",
+			"css/css-fonts.css",
+			"css/css-style.css"
+		]
+	},
+	"javascript": {
+		"home_page": [
+			"js/core.min.js",
+			"js/script.js"
+		],
+		
+		"user_register": [
+			"js/core.min.js",
+			"js/script.js"
+		],
+		"page": [
+			"js/core.min.js",
+			"js/script.js"
+		],
+		"pages": [
+			"js/core.min.js",
+			"js/script.js"
+		],
+		"articles": [
+			"js/core.min.js",
+			"js/script.js"
+		],
+		"404": [
+			"js/core.min.js",
+			"js/script.js"
+		],
+		"product": [
+			"js/core.min.js",
+			"js/script.js"
+		],
+		"products": [
+			"js/core.min.js",
+			"js/script.js"
+		],
+		"cart": [
+			"js/core.min.js",
+			"js/script.js"
+		],
+		"checkout": [
+			"js/core.min.js",
+			"js/script.js"
+		],
+		"order_preview": [
+			"js/core.min.js",
+			"js/script.js"
+		],		
+		"contact": [
+			"js/core.min.js",
+			"js/script.js"
+		],
+		"order_confirm": [
+			"js/core.min.js",
+			"js/script.js"
+		]
+	}
+}

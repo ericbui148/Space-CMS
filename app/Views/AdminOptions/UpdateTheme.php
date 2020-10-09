@@ -1,0 +1,1 @@
+<?php include VIEWS_PATH . 'AdminForumOptions/elements/theme.php'; ?>
