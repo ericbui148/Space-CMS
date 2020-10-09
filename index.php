@@ -2,7 +2,7 @@
 if (substr_count($_SERVER['HTTP_ACCEPT_ENCODING'], 'gzip')) ob_start("ob_gzhandler"); else ob_start();
 if (!headers_sent())
 {
-	session_name('FoodDelivery');
+	session_name('WebSpace');
 	@session_start();
 }
 if (isset($_GET["reporting"]) && $_GET["reporting"] == '0') 

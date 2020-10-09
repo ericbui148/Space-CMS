@@ -1,0 +1,12 @@
+
+\.buildpath
+
+\.project
+
+\.settings/org\.eclipse\.php\.core\.prefs
+
+\.settings/org\.eclipse\.wst\.common\.project\.facet\.core\.xml
+
+\.DS_Store
+./vendor/*
+#app/web/upload/*
