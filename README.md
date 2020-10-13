@@ -20,7 +20,7 @@ See [LICENSE](LICENSE) for the full license.
   - Home page - link to all resources Space CMS: http://webspace.vn
   - Space CMS official Coding: http://webspace.vn
   - Theme, Module and more add-ons for Space CMS: http://webspace.vn
-  - Demo: http://space.webspace.vn
+  - Demo: http://space.webspace.vn; email: support@webspace.vn ; pass: demopass
 
 ## Community
   - Space CMS Fanpage: http://facebook.com/app7vietnam
