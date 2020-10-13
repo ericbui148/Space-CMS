@@ -19,14 +19,10 @@ See [LICENSE](LICENSE) for the full license.
 ## Space CMS official website
   - Home page - link to all resources Space CMS: http://webspace.vn
   - Space CMS official Coding: http://webspace.vn
-  - Theme, Module and more add-ons for Space CMS: http://webspace.vn/store
-  - Space CMS official Forum http://forum.webspace.vn
-  - Open Document Library for Space CMS: http://wiki.webspace.vn/
+  - Theme, Module and more add-ons for Space CMS: http://webspace.vn
 
 ## Community
-  - Space CMS Fanpage: http://facebook.com/spacecms
-  - Space CMS group on FB: https://www.facebook.com/groups/spacecms
-  - http://twitter.com/spacecms
+  - Space CMS Fanpage: http://facebook.com/app7vietnam
 
 
 
