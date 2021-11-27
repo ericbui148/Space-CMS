@@ -28,10 +28,10 @@ See [LICENSE](LICENSE) for the full license.
 
 
 ## Space CMS Centre for Research and Development
-TIEN HIEP CLOUD COMPUTING COMPANY LIMITED (TH CLOUD LTD., CO)
+Pascal Group JSC.,CO
 
 Website: http://webspace.vn
 
 Head Office:
-  - 231 Dien Bien Phu Street, Ward 06, District 03, Ho Chi Minh City, Vietnam
-  - Phone: (+84) 973 780 117, Email: support (at) webspace.vn
+  - 1646 vo van kiet, ward 16, dist 8, HCMC
+  - Phone: (+84) 973 780 117, Email: support (at) pascalgroup.vn
