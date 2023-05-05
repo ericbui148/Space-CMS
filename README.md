@@ -33,5 +33,5 @@ Pascal Group JSC.,CO
 Website: http://webspace.vn
 
 Head Office:
-  - 1646 vo van kiet, ward 16, dist 8, HCMC
+  - Tầng 10, Toà nhà Pax Sky, 51 Nguyễn Cư Trinh, Phường Nguyễn Cư Trinh, Quận 1, Thành phố Hồ Chí Minh
   - Phone: (+84) 973 780 117, Email: support (at) pascalgroup.vn
